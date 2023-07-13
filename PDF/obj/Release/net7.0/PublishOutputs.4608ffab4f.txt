@@ -1,0 +1,17 @@
+C:\Users\Asus\source\repos\PDF\PDF\bin\Release\net7.0\app.publish\PDF.exe
+C:\Users\Asus\source\repos\PDF\PDF\bin\Release\net7.0\app.publish\PDF.dll
+C:\Users\Asus\source\repos\PDF\PDF\bin\Release\net7.0\app.publish\PDF.deps.json
+C:\Users\Asus\source\repos\PDF\PDF\bin\Release\net7.0\app.publish\PDF.runtimeconfig.json
+C:\Users\Asus\source\repos\PDF\PDF\bin\Release\net7.0\app.publish\PDF.pdb
+C:\Users\Asus\source\repos\PDF\PDF\bin\Release\net7.0\app.publish\HarfBuzzSharp.dll
+C:\Users\Asus\source\repos\PDF\PDF\bin\Release\net7.0\app.publish\QuestPDF.dll
+C:\Users\Asus\source\repos\PDF\PDF\bin\Release\net7.0\app.publish\SkiaSharp.dll
+C:\Users\Asus\source\repos\PDF\PDF\bin\Release\net7.0\app.publish\SkiaSharp.HarfBuzz.dll
+C:\Users\Asus\source\repos\PDF\PDF\bin\Release\net7.0\app.publish\runtimes\osx\native\libHarfBuzzSharp.dylib
+C:\Users\Asus\source\repos\PDF\PDF\bin\Release\net7.0\app.publish\runtimes\win-arm64\native\libHarfBuzzSharp.dll
+C:\Users\Asus\source\repos\PDF\PDF\bin\Release\net7.0\app.publish\runtimes\win-x64\native\libHarfBuzzSharp.dll
+C:\Users\Asus\source\repos\PDF\PDF\bin\Release\net7.0\app.publish\runtimes\win-x86\native\libHarfBuzzSharp.dll
+C:\Users\Asus\source\repos\PDF\PDF\bin\Release\net7.0\app.publish\runtimes\osx\native\libSkiaSharp.dylib
+C:\Users\Asus\source\repos\PDF\PDF\bin\Release\net7.0\app.publish\runtimes\win-arm64\native\libSkiaSharp.dll
+C:\Users\Asus\source\repos\PDF\PDF\bin\Release\net7.0\app.publish\runtimes\win-x64\native\libSkiaSharp.dll
+C:\Users\Asus\source\repos\PDF\PDF\bin\Release\net7.0\app.publish\runtimes\win-x86\native\libSkiaSharp.dll
